@@ -37,7 +37,7 @@ setup(
     classifiers=CLASSIFIERS,
     install_requires=[
         "Babel>=2.2",
-        "Django>=3.0,<5",
+        "Django>=3.0,<6",
         "prices>=1.0.0",
     ],
     platforms=["any"],
